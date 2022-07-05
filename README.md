@@ -1,7 +1,4 @@
 # Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+项目是用vite搭建，node版本在11以上，搭建好环境后可以直接拖入src里面的页面，没有使用ts语言，只使用了一些vue3的语法糖
+页面包括基本的登录页面，个人信息，排行榜，评论区页面，用的仅是一些el的基础组件，没有复杂的功能，后端采用springboot进行开发
+环境搭建参考 http://t.csdn.cn/L0eu8
